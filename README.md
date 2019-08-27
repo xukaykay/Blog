@@ -2,4 +2,13 @@
 
 I have always been very bad at expressing myself. 
 
-##About Me
+# About Me
+
+# Blogs
+Hope I'm making sense. 
+
+# Photos
+I like to take pictures. 
+
+# Lessons
+Take aways from the courses I'm taking. 
