@@ -8,7 +8,7 @@ I have always been very bad at expressing myself.
 Hope I'm making sense. 
 
 ## Photos
-I like to take pictures. 
+I like to take photos. 
 
 ## Lessons
 Take aways from the courses I'm taking. 
