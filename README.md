@@ -1,7 +1,5 @@
 ## Welcome to My Blog created withGitHub Pages
-This is my family cat Migi. 
-
-![Migi with Blue Fish](https://github.com/xukaykay/Image/blob/master/Migi%20with%20Blue%20Fish.jpg)
+&larr; This is my family cat Migi. 
 
 ## About Me
 I have always been very bad at expressing myself. 
