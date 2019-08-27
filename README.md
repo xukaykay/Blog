@@ -1,5 +1,5 @@
 ## Welcome to My Blog
-&larr; This is my family cat Migi, she welcomes you too. 
+&larr; This is our family cat Migi, she welcomes you also. 
 
 ## About Me
 I have always been very bad at expressing myself. 
