@@ -1,5 +1,5 @@
-## Welcome to My Blog created withGitHub Pages
-&larr; This is my family cat Migi. 
+## Welcome to My Blog
+&larr; This is my family cat Migi, she welcomes you too. 
 
 ## About Me
 I have always been very bad at expressing myself. 
